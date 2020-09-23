@@ -24,7 +24,3 @@ I ❤️ Back-end Development!
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![toptalent015's github stats](https://github-readme-stats.vercel.app/api?username=toptalent015&show_icons=true&theme=dracula)
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://toptalent015-visitor-badge.glitch.me/badge?page_id=toptalent015.toptalent015)
