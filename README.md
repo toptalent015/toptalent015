@@ -21,6 +21,3 @@ I ❤️ Back-end Development!
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![toptalent015's github stats](https://github-readme-stats.vercel.app/api?username=toptalent015&show_icons=true&theme=dracula)
